@@ -1,0 +1,36 @@
+.body {
+    background-color: bisque;
+}
+
+.header-div{
+    /*padding-top: 0%;
+    padding-bottom: 19%;
+    padding-left: 30%;
+    padding-right: 0%;
+    margin: auto;
+    margin-bottom: auto;*/
+}
+
+.header-img{
+    padding: 7%;
+    height: fit-content;
+    weight: 10px;
+}
+
+.header-title{
+    width: 100%;
+    min-height: 100px;
+  }
+  #sect1 {
+    background-color: #3333337d;
+    color: #fff;
+  }
+  
+  .title {
+    text-align: center;
+    font-weight: 500px;
+    padding-top: 7rem;
+    color: rgb(227, 193, 23);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+  }
